@@ -1,3 +1,11 @@
 {
-  "test": "test"
+    "platforms": {
+        "windows-x86_64": {
+            "url": "https://vansh-ah.github.io/neo-config/0.7.6/neo-update-test-0.7.6-x64-setup.exe",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS2d6WG12Y1l4bHVERnRpOTZiVDhNOTNGYlBuaXEyU0N5UTVCY1I4NGRIdllQemwrSHcwTmJ5Wi9Tb25PMkFrcXdNNDB1eDlPWVFnTEYyd1ZuT1RjeHVQK3ZNT2Q2NXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzM0NTYzCWZpbGU6TmVvIFVwZGF0ZSBUZXN0XzAuNy42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuNgpVbFd5YU9tRWt3MURZcm12OE5mRDZ3OTRUZ0cxbk0wOWhQTWRreVBPeDI3eFdBOCtIWUFCbFE1NFE3TGZ1UEJDa1dOUU5NREFhb1JMTHMxL0N6bGdDQT09Cg=="
+        }
+    },
+    "pub_date": "2026-10-23T05:49:24.2637840Z",
+    "version": "0.7.7",
+    "notes": "Local update sanity build 0.7.7"
 }
